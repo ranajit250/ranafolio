@@ -1,0 +1,186 @@
+{
+  "main": {
+    "name": "Ranajit Patel",
+    "occupation": "Programmer ",
+    "description": "Technology is like a fish. The longer it stays on the shelf, the less desirable it becomes.",
+    "image": "ranapic2.jpg",
+    "bio": "I’m a product designer based in Bangalore, India. I have 2+ years of experience in IT industry. I have worked for some outgoing companies previously. Currently I am working as a Cloud Cx Developer with CRMIT Solutions. My working experience covers a wide variety of project scopes including product design using Java based technology. I usually spend my time learning new technologies and following my passion of Photography and Cooking.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ranajitpatel2508@gmail.com",
+    "phone": "+91-7397303481",
+    "address": {
+      "street": "#257, Mai, Rampur",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "zip": "222203"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1G9JCWO6WZ4Ke2vIOJ-zGKu2Z6gCxyYhY/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ranajit250/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ranajit-patel-05b689146/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ranajit_patel/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ranajit250",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ranajit250",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCmQHD9r0LIJZ2F9ocxS2hxQ",
+        "className": "fa fa-youtube-play"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Sathyabama Institute of Science and Technology, Chennai, India",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "April' 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "CRMIT Solutions",
+        "title": "Cloud Cx Developer",
+        "years": "July' 2020 - Present",
+        "description": "CRMIT Solutions is a pioneer in delivering SaaS based Customer Experience (CX) consulting & solutions."
+      },
+      {
+        "company": "Wipro Limited",
+        "title": "Project Engineer",
+        "years": "Oct' 2018 - Feb' 2020",
+        "description": "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services."
+      },
+      {
+        "company": "RheinBrücke IT Consulting",
+        "title": "Software Engineer",
+        "years": "July' 2018 - Aug' 2018",
+        "description": "RheinBrücke is focused on offering consulting, technology and outsourcing solutions and services."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Salesforce",
+        "level": "80%"
+      },
+      {
+        "name": "Lightning Component",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BUDDIES_3 | Kal Ho Na Ho...| Tere Jaisa Yarr Kaha... | Ye Dosti Hum Nahi Todenge... | Miss You All",
+        "category": "Videos",
+        "image": "buddies3.PNG",
+        "url": "https://www.youtube.com/watch?v=JIAvw5ua4KY"
+      },
+      {
+        "title": "BUDDIES | TERE JAISA YAR KAHA... | YAARO DOSTI BADI HASIN...| I WILL ALWAYS MISS YOU GUYS | 😭😭😭",
+        "category": "Videos",
+        "image": "buddies1.PNG",
+        "url": "https://www.youtube.com/watch?v=GPVDZaKBCZc"
+      },
+      {
+        "title": "BUDDIES_2 | Meri Duniya.... | Miss My college Day... | Shrishti Farewell | Miss You All",
+        "category": "Videos",
+        "image": "buddies2.PNG",
+        "url": "https://www.youtube.com/watch?v=nq2z-zv15Cc"
+      },
+      {
+        "title": "Shashank and Asha's Engagement || Engagement shoot || Ring Ceremony || love Begins Here",
+        "category": "Videos",
+        "image": "love.PNG",
+        "url": "https://www.youtube.com/watch?v=e3i8-jNY2jA&t=234s"
+      },
+      {
+        "title": "Sun rise",
+        "category": "Image",
+        "image": "sunrise.jpg",
+        "url": "https://drive.google.com/file/d/1faCARU-Dz4l__J24xDendB6Njhj9Rmjz/view?usp=sharing"
+      },
+      {
+        "title": "Dragonfly",
+        "category": "Image",
+        "image": "fly.jpg",
+        "url": "https://drive.google.com/file/d/1Qb-A1CJkO72f86K6YdXB-55LVndfq7QO/view?usp=sharing"
+      },
+      {
+        "title": "Crabs",
+        "category": "Image",
+        "image": "crab.jpg",
+        "url": "https://drive.google.com/file/d/1xvVWxIctNeBFGAcc71J_czSQHpar1sqh/view?usp=sharing"
+      },
+      {
+        "title": "Chameleon",
+        "category": "Image",
+        "image": "girgit.jpg",
+        "url": "https://drive.google.com/file/d/18UIkjxJhHSZiBYNBHp1gSl2xPXxvOg6P/view?usp=sharing"
+      }
+    ]
+    
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "A dream is not that which you see while sleeping, it is something that does not let you sleep.",
+        "user": "APJ Abdul Kalam"
+      },
+      {
+        "text": "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
+        "user": "Steve Jobs"
+      },
+      {
+        "text": "All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents.",
+        "user": "APJ Abdul Kalam"
+      },
+      {
+        "text": "Fake It Until You Make It! Act As If You Had All The Confidence You Require Until It Becomes Your Reality.",
+        "user": "Brian Tracy"
+      }
+    ]
+  }
+}

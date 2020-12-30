@@ -1,0 +1,46 @@
+{
+  "name": "ranafolio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-ga": "^3.1.2",
+    "react-scripts": "3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build && echo '/* /index.html  200' | cat >build/_redirects",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Ranajit Patel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranajit250/ranafolio.git"
+  },
+  "keywords": [
+    "ranafolio"
+  ],
+  "bugs": {
+    "url": "https://github.com/ranajit250/ranafolio/issues"
+  },
+  "homepage": "https://github.com/ranajit250/ranafolio#readme"
+}
